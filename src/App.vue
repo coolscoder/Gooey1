@@ -4,7 +4,7 @@
     <p title v-text="name" />
     <div socials>
       <a href="http://google.com">TIKTOK</a>
-      <a instagram href="http://google.com">INSTAGRAM</a>
+      <a ml-auto href="http://google.com">INSTAGRAM</a>
       <a href="http://google.com">SPOTIFY</a>
     </div>
     <p v-text="description" />
@@ -79,7 +79,7 @@
     padding: 10px 30px;
     margin-bottom: 10px;
   }
-  [instagram] {
+  [ml-auto] {
     margin-left: auto;
   }
 </style>
